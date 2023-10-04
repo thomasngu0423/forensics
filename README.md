@@ -10,6 +10,10 @@
 2. `$ python2 setup.py`
 
 ## Basic Volatility Cheatsheet
+**OS Information**
+```
+python2 vol.py imageinfo -f /dump_file/
+```
 **Process Information**
 ```
 python2 vol.py pslist -f /dump_file/
