@@ -10,4 +10,10 @@
 2. `$ python2 setup.py`
 
 ## Volatility Cheatsheet
-  
+1. Process Information
+```
+python2 pslist -f /dump_file/
+```
+```
+python2 psscan -f /dump_file/
+```
