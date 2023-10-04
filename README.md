@@ -1,7 +1,8 @@
 # Memory Dump Cheatsheet
 
 ## Table Of Content
-  * [Installing Volatility 2](#Installing-Volatility-2)
+  * [Installing Volatility 2](#installing-volatility-2)
+  * [Volatility Cheatsheet](#volatility-cheatsheet)
 
 
 ## Installing Volatility 2
