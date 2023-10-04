@@ -64,6 +64,7 @@ python2 vol.py -f /dump_file/ sockets
 python2 vol.py -f /dump_file/ malfind
 ```
 ## Wireshark Cheatsheet
-![image](https://github.com/thomasngu0423/memorydumpcheatsheet/assets/100482919/757abaf4-9b34-4f9e-a61b-d62e0f0c7fde)
-![image](https://github.com/thomasngu0423/memorydumpcheatsheet/assets/100482919/5e87a8d3-5bc7-4684-a1e4-8c7cc141c35a)
+![image](https://github.com/thomasngu0423/forensics/assets/100482919/6fc84d57-b80a-4862-938e-72ffb7059945)
+![image](https://github.com/thomasngu0423/forensics/assets/100482919/4a88baa4-4092-45df-ab62-19fa11a72abc)
+
 
